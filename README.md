@@ -16,6 +16,8 @@ Create a custom VPC with
 
 3 private subnet for db
 
+3 route table and associate with the subnets
+
 Internet Gateway for public connection
 
 3 NAT Gateways in the public subnet for the outgoin internet connection for private subnet
