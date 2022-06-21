@@ -26,3 +26,6 @@ Internet Gateway for public connection
 
 ![1](https://user-images.githubusercontent.com/59678465/174800615-3a41d5cf-d79e-400e-8081-e2c184feda89.png)
 
+Acessing php-server using the jumb server
+
+![1](https://user-images.githubusercontent.com/59678465/174812488-620ff677-a553-456c-9059-030540e7f5b1.png)
