@@ -2,7 +2,9 @@
 
 ***AWS network architecture***
 
-/home/jones/Desktop/1.png
+![Screenshot from 2022-06-21 08-37-41](https://user-images.githubusercontent.com/59678465/174800812-605c2216-deee-4f41-82cd-27b79d7796bb.png)
+
+
 
 Create a custom VPC with
 3 availability zones, 
