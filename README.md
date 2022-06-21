@@ -13,5 +13,5 @@ Internet Gateway for public connection
 3 NAT Gateways in the public subnet for the outgoin internet connection for private subnet
 3 corresponding Route tables for the above
 
-
+/home/jones/Desktop/1.png
 
