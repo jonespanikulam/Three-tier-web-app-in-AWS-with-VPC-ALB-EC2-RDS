@@ -28,4 +28,4 @@ Internet Gateway for public connection
 
 Acessing php-server using the jumb server
 
-![1](https://user-images.githubusercontent.com/59678465/174812488-620ff677-a553-456c-9059-030540e7f5b1.png)
+
