@@ -31,6 +31,15 @@ Summary:
 Here we create jumb server, 2 application server and Rds server. Jumb server is in public subnet connected to an internet gateway
 for connection. The application servers and RDS are routed using NAT gateways.
 
+The application servers are therefore accessed using the jumb servers and we install php and https webserver. Then we create a application
+load balancer and add the php servers as it targets. The round robin mechanism is present in the php servers.
+
+We then create RDS instance and add the subent groups required. Install phpmyadmin in php servers and add the RDS endpoint in config file to connet
+to the phpmyadmin. We need to add stickiness feature in ALB, otherwise the phpservers get intercoonected using round robin. 
+
+![1](https://user-images.githubusercontent.com/59678465/175048348-08974967-d4e5-420b-b57d-6a8bc04c6629.png)
+
+
 
 
 
