@@ -26,6 +26,11 @@ Internet Gateway for public connection
 
 ![1](https://user-images.githubusercontent.com/59678465/174800615-3a41d5cf-d79e-400e-8081-e2c184feda89.png)
 
-Acessing php-server using the jumb server
+Summary:
+
+Here we create jumb server, 2 application server and Rds server. Jumb server is in public subnet connected to an internet gateway
+for connection. The application servers and RDS are routed using NAT gateways.
+
+
 
 
